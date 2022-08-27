@@ -1,0 +1,23 @@
+{
+  "name": "konekarate",
+  "version": "1.0.0",
+  "description": "Ethereum smart contract generator",
+  "main": "contract-constructor.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "solidity",
+    "smart-contracts"
+  ],
+  "author": "hot-meal",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.2.37"
+  }
+}
